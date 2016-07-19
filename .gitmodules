@@ -1,0 +1,3 @@
+[submodule "scenario-windows-phishing"]
+	path = scenario-windows-phishing
+	url = git@github.com:akheros/scenario-windows-phishing.git
