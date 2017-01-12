@@ -1,6 +1,0 @@
-[submodule "scenario-windows-phishing"]
-	path = scenario-windows-phishing
-	url = git@github.com:akheros/scenario-windows-phishing.git
-[submodule "scenario-apt-shellshock"]
-	path = scenario-apt-shellshock
-	url = git@github.com:akheros/scenario-apt-shellshock.git
